@@ -5,6 +5,11 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git freifunk https://github.com/freifunk/openwrt-packages.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
+#下面是新添加的
+src-git helloworld https://github.com/fw876/helloworld
+src-git passwall https://github.com/xiaorouji/openwrt-passwall
+src-git openclash https://github.com/vernesong/OpenClash
+src-git OpenAppFilter https://github.com/Lienol/openwrt-OpenAppFilter
 #src-git video https://github.com/openwrt/video.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git management https://github.com/openwrt-management/packages.git
